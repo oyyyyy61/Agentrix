@@ -1,7 +1,7 @@
 [submodule "vllm"]
 	path = vllm
 	url = https://github.com/T4t4KAU/vllm.git
-	branch = fork-attn
+	branch = overlap
 [submodule "LMCache"]
 	path = LMCache
 	url = https://github.com/T4t4KAU/LMCache.git
@@ -14,7 +14,3 @@
 	path = sglang
 	url = https://github.com/oyyyyy61/sglang.git
 	branch = fork-attn
-[submodule "vllm"]
-	path = vllm
-	url = https://github.com/T4t4KAU/vllm.git
-	branch = overlap
